@@ -1,42 +1,44 @@
 # LAB-5-Student-registration-system
+## NAME   :BHUVANESH KUMAR R
+## REG NO :212223040027
+
 ### AIM:
 To develop a project Student Registration System using Rational Rose Software and to
 implement the software in Java.
+
 ### PROBLEM ANALYSIS AND PROJECT PLANNING:
+
 A Student Registration system (SRS) is a software application for educational
 establishments to manage student data. Student information systems provide capabilities for
 entering student test and other assessment scores, building student schedules, tracking student
 attendance, and managing many other student-related data needs in a school, college or
 university.
+
 ### PROBLEM STATEMENT:
 a. Effective for Administration Purpose
 b. Cost effective
 c. Better Service
+
 ### UML DIAGRAMS:
 
-## USECASE DIAGRAM :
-![Screenshot 2024-04-20 112754](https://github.com/23003324/LAB-5-Student-registration-system/assets/140035234/af2ca697-72ec-4185-ae1d-fc734f8adf67)
+# Usecase diagram:
+![usecase5](https://github.com/user-attachments/assets/ea2314ef-37e1-4234-a9ec-8d70d00d7c9a)
 
-## CLASS DIAGRAM :
-![Screenshot 2024-04-20 112810](https://github.com/23003324/LAB-5-Student-registration-system/assets/140035234/fcbadf5c-98f6-463f-bf0a-71e1abb96410)
+# Class diagram:
+![class5](https://github.com/user-attachments/assets/c1af288a-5877-496c-84c3-93393f25da27)
 
+# Sequence diagram:
+![seq5](https://github.com/user-attachments/assets/09b0bd62-aafa-4f36-b920-10742c2842a9)
 
-## SEQUENCE DIAGRAM :
-![Screenshot 2024-04-20 112843](https://github.com/23003324/LAB-5-Student-registration-system/assets/140035234/473b50ff-8e75-495f-a6ff-91861a78bbf3)
+# Communication diagram:
+![comm5](https://github.com/user-attachments/assets/9eb5369e-0ba4-4c13-a9a7-3c6e89e07c2f)
 
+# Activity diagram:
+![activity5](https://github.com/user-attachments/assets/4efba880-4ae4-4193-b1f8-3f38e95fb746)
 
-## ACYIVITY DIAGRAM :
-![Screenshot 2024-04-20 112917](https://github.com/23003324/LAB-5-Student-registration-system/assets/140035234/625bb71d-d15e-489c-8515-d5230e9cceb8)
-
-
-## COMMUNICATION DIAGRAM :
-![Screenshot 2024-04-20 112904](https://github.com/23003324/LAB-5-Student-registration-system/assets/140035234/fbc60854-b353-4609-9e7b-ac300a199587)
-
-
-## PACKAGE DIAGRAM :
-![Screenshot 2024-04-20 112829](https://github.com/23003324/LAB-5-Student-registration-system/assets/140035234/0324d666-e4cd-4e91-83bd-6648f274e6e1)
+# Package diagram:
+![package5](https://github.com/user-attachments/assets/9717802c-4d51-4504-b053-978417277cf3)
 
 
 ### RESULT:
-Thus the Student information system project was executed and the output was
-verified.
+Thus the Student information system project was executed and the output was verified.
